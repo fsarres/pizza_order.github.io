@@ -1,0 +1,43 @@
+body{
+    font-family: 'Akshar', sans-serif;
+    background-color: rgb(160, 223, 158);
+}
+
+.menu{
+    border: 2px dashed blue;
+    text-align: center;
+    width: 800px;
+}
+
+.createOrder{
+    border: 0.28em dotted darkgreen;
+    text-align: center;
+    width: 800px;
+}
+
+#title{
+    text-align: center;
+    width: 800px;
+}
+
+#sauce{
+    margin: 3px;
+    
+}
+
+#btn{
+    margin: 10px;
+    border-radius: 5px;
+    
+}
+
+#crust{
+    margin: 5px;
+}
+
+#order{
+    width: 800px;
+    text-align: left;
+    border: 2px solid black
+}   
+
